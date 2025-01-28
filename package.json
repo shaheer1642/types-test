@@ -1,5 +1,5 @@
 {
-  "name": "@types/sierra",
+  "name": "@types/test",
   "version": "1.2.0",
   "main": "src/index.ts",
   "types": "dist/index.d.ts",
